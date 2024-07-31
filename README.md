@@ -11,3 +11,7 @@ Just specify a directory of mp3 files, how many seconds of the song you'd like t
 and let musicStudyGame will take the rest off your hands, playing exactly that many seconds of a random song from your directory and then 
 prompting you for its title (assuming its in the name of the MP3)
 
+install the requirements with
+	pip install -r requirements.txt
+
+just a simple little tool I made for my music class, enjoy!
