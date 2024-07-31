@@ -11,4 +11,5 @@ Just specify a directory of mp3 files, how many seconds of the song you'd like t
  
 	pip install -r requirements.txt
 to automatically download the one required package
+
 just a simple little tool I made for my music class, enjoy!
